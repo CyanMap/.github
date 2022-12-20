@@ -1,3 +1,3 @@
-## Welcome to CyanMap Readme!
-# What is CyanMap?
-CyanMap is a mobile application that lets you find groups and events based on your interests
+## Welcome to Cyan Readme!
+# What is Cyan?
+Cyan is a collection of random startup ideas we come up with
